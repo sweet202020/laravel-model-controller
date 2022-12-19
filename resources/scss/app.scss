@@ -1,1 +1,10 @@
-@import '~bootstrap/scss/bootstrap'
+@import '~bootstrap/scss/bootstrap';
+
+body {
+    background-color: darkred;
+}
+
+header {
+    background-color: rgb(172, 4, 4);
+    box-shadow: 20px 20px;
+}
